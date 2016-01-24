@@ -5,7 +5,7 @@
  */
 package test;
 import com.autocomplete.PrefixMatches;
-import com.autocomplete.Trie;
+import com.trie.Trie;
 import com.autocomplete.Tuple;
 import java.util.ArrayList;
 import java.util.List;

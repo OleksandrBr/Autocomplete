@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Oleksandr_Briukhovyc
+ * @author Oleksandr_Briukhovych
  */
 public class Tuple {
     private final String term;

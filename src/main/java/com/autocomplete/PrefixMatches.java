@@ -5,6 +5,8 @@
  */
 package com.autocomplete;
 
+import com.trie.RWayTrie;
+import com.trie.Trie;
 import java.util.ArrayList;
 import java.util.List;
 
